@@ -12,4 +12,4 @@ icon: chart-column
 | Microsoft integration | Bring Microsoft DNS and server credentials into the broader DDI model. |
 | Notification delivery | Route operational events to the teams that own the service. |
 
-See how asset visibility extends this model in [Asset Insights](https://app.gitbook.com/s/XSPACE_ASSETS/).
+See how asset visibility extends this model in [Asset Insights](https://app.gitbook.com/s/T7hfPll24m84ff2UcPva/).
