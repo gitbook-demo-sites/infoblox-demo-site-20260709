@@ -187,9 +187,10 @@ def scaffold_assets():
           <rect x="1290" y="282" width="66" height="78" rx="7" fill="#F7FAFC" stroke="#D8DEE6"/>
           <text x="104" y="182" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" fill="#FFFFFF">Infoblox</text>
           <text x="108" y="242" font-family="Arial, Helvetica, sans-serif" font-size="34" fill="#F36B21">Documentation Hub</text>
-          <text x="110" y="308" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#D8DEE6">Unify networking and security guidance for Universal DDI, Threat Defense, and Asset Insights.</text>
-          <rect x="110" y="362" width="360" height="48" rx="4" fill="#F36B21"/>
-          <text x="136" y="394" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#101820">Future-proof critical network services</text>
+          <text x="110" y="302" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#D8DEE6">Unify networking and security guidance for Universal DDI,</text>
+          <text x="110" y="336" font-family="Arial, Helvetica, sans-serif" font-size="25" fill="#D8DEE6">Threat Defense, and Asset Insights.</text>
+          <rect x="110" y="388" width="360" height="48" rx="4" fill="#F36B21"/>
+          <text x="136" y="420" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="700" fill="#101820">Future-proof critical network services</text>
         </svg>
         """,
     )
@@ -226,6 +227,20 @@ def scaffold_home():
         A focused demo site that turns three high-value Infoblox documentation areas into a clearer, GitBook-native journey.
 
         The site preserves Infoblox's core product language: DDI management across hybrid and multi-cloud environments, DNS-layer threat protection, and cross-domain asset visibility. It also shows how a broad existing docs estate could become a guided homepage, product-specific sections, and a release feed that is easy to follow.
+
+        {{% columns %}}
+        {{% column width="66.66666666666666%" %}}
+        <button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask the Infoblox docs</button>
+
+        <button type="button" class="button secondary" data-action="ask" data-query="How do Universal DDI and Asset Insights work together?" data-icon="network-wired">DDI and assets</button> <button type="button" class="button secondary" data-action="ask" data-query="What is the setup path for Threat Defense?" data-icon="shield-halved">Threat Defense setup</button> <button type="button" class="button secondary" data-action="ask" data-query="Show recent Infoblox documentation updates" data-icon="clock-rotate-left">Recent updates</button>
+        {{% endcolumn %}}
+
+        {{% column width="33.33333333333334%" %}}
+        {{% hint style="info" icon="sparkles" %}}
+        Use GitBook AI to search across the curated Infoblox product spaces, compare workflows, and summarize recent release notes.
+        {{% endhint %}}
+        {{% endcolumn %}}
+        {{% endcolumns %}}
 
         ## Explore the products
 

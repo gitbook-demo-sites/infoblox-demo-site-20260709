@@ -26,6 +26,20 @@ A focused demo site that turns three high-value Infoblox documentation areas int
 
 The site preserves Infoblox's core product language: DDI management across hybrid and multi-cloud environments, DNS-layer threat protection, and cross-domain asset visibility. It also shows how a broad existing docs estate could become a guided homepage, product-specific sections, and a release feed that is easy to follow.
 
+{% columns %}
+{% column width="66.66666666666666%" %}
+<button type="button" class="button primary" data-action="ask" data-icon="gitbook-assistant">Ask the Infoblox docs</button>
+
+<button type="button" class="button secondary" data-action="ask" data-query="How do Universal DDI and Asset Insights work together?" data-icon="network-wired">DDI and assets</button> <button type="button" class="button secondary" data-action="ask" data-query="What is the setup path for Threat Defense?" data-icon="shield-halved">Threat Defense setup</button> <button type="button" class="button secondary" data-action="ask" data-query="Show recent Infoblox documentation updates" data-icon="clock-rotate-left">Recent updates</button>
+{% endcolumn %}
+
+{% column width="33.33333333333334%" %}
+{% hint style="info" icon="sparkles" %}
+Use GitBook AI to search across the curated Infoblox product spaces, compare workflows, and summarize recent release notes.
+{% endhint %}
+{% endcolumn %}
+{% endcolumns %}
+
 ## Explore the products
 
 <table data-view="cards"><thead><tr><th width="48"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
