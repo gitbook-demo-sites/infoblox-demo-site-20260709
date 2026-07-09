@@ -1,0 +1,80 @@
+{
+  "org": "lDYvDdPBo2V7fu4zoiJ8",
+  "site": "site_RPRF4",
+  "spaces": {
+    "HOME": "qLkDPmYiAWSBIE3ueYOh",
+    "DDI": "OLXbioOXuuV7oAjtGypM",
+    "THREAT": "bjmjWyZeEElnO6lY8R4x",
+    "ASSETS": "T7hfPll24m84ff2UcPva",
+    "CHANGELOG": "Jbf6lssWdfZLknskireu"
+  },
+  "sections": {
+    "HOME": "sitesc_vcfgH",
+    "DDI": "sitesc_oCyEB",
+    "THREAT": "sitesc_KuGie",
+    "ASSETS": "sitesc_0yIvI",
+    "CHANGELOG": "sitesc_xgOeX"
+  },
+  "site_spaces": {
+    "HOME": "sitesp_lL7XY",
+    "DDI": "sitesp_mxrC3",
+    "THREAT": "sitesp_wCHTa",
+    "ASSETS": "sitesp_iGLjO",
+    "CHANGELOG": "sitesp_3ejKX"
+  },
+  "site_object": {
+    "object": "site",
+    "id": "site_RPRF4",
+    "type": "ultimate",
+    "appliedType": "ultimate",
+    "title": "Infoblox Documentation Hub",
+    "icon": {
+      "icon": {
+        "dark": "https://www.google.com/s2/favicons?domain=gitbook.io&sz=256",
+        "light": "https://www.google.com/s2/favicons?domain=gitbook.io&sz=256"
+      }
+    },
+    "basename": "infoblox-documentation-hub",
+    "visibility": "share-link",
+    "permissionsModel": "site",
+    "defaultLevel": null,
+    "permissions": {
+      "view": false,
+      "access": false,
+      "admin": false,
+      "installIntegration": false,
+      "viewAdaptiveSchema": false,
+      "editAdaptiveSchema": false
+    },
+    "published": false,
+    "createdAt": "2026-07-09T14:09:29.000Z",
+    "siteSpaces": 0,
+    "features": [
+      {
+        "id": "sites-share-links",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-ai-assistant",
+        "plan": "ultimate",
+        "frozen": false
+      },
+      {
+        "id": "sites-pdf-export",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-page-feedback",
+        "plan": "premium",
+        "frozen": false
+      }
+    ],
+    "urls": {
+      "location": "/orgs/lDYvDdPBo2V7fu4zoiJ8/sites/site_RPRF4",
+      "app": "https://app.gitbook.com/o/lDYvDdPBo2V7fu4zoiJ8/sites/site_RPRF4",
+      "preview": "https://sites.gitbook.com/preview/site_RPRF4/"
+    }
+  }
+}
