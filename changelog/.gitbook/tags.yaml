@@ -1,0 +1,12 @@
+- tag: ddi
+  label: Universal DDI
+  icon: network-wired
+- tag: threat-defense
+  label: Threat Defense
+  icon: shield-halved
+- tag: asset-insights
+  label: Asset Insights
+  icon: radar
+- tag: docs
+  label: Documentation
+  icon: book-open
