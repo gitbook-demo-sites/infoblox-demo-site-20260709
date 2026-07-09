@@ -29,10 +29,10 @@ The site preserves Infoblox's core product language: DDI management across hybri
 ## Explore the products
 
 <table data-view="cards"><thead><tr><th width="48"></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody>
-<tr><td><h4><i class="fa-network-wired" style="color:$primary;"></i></h4></td><td><h4><strong>Universal DDI</strong></h4></td><td>Centralize DNS, DHCP, and IPAM across on-prem, branch, and public cloud services.</td><td><a href="https://app.gitbook.com/s/OLXbioOXuuV7oAjtGypM/">Universal DDI</a></td></tr>
-<tr><td><h4><i class="fa-shield-halved" style="color:$primary;"></i></h4></td><td><h4><strong>Threat Defense</strong></h4></td><td>Use DNS as a first line of defense with policy, threat intelligence, and research tools.</td><td><a href="https://app.gitbook.com/s/bjmjWyZeEElnO6lY8R4x/">Threat Defense</a></td></tr>
-<tr><td><h4><i class="fa-radar" style="color:$primary;"></i></h4></td><td><h4><strong>Asset Insights</strong></h4></td><td>Discover, monitor, and analyze assets across cloud, on-prem, IoT, OT, and third-party sources.</td><td><a href="https://app.gitbook.com/s/T7hfPll24m84ff2UcPva/">Asset Insights</a></td></tr>
-<tr><td><h4><i class="fa-clock-rotate-left" style="color:$primary;"></i></h4></td><td><h4><strong>Changelog</strong></h4></td><td>Track realistic product documentation updates in a filterable release feed.</td><td><a href="https://app.gitbook.com/s/Jbf6lssWdfZLknskireu/">Changelog</a></td></tr>
+<tr><td><h4><i class="fa-network-wired" style="color:$primary;"></i></h4></td><td><h4><strong>Universal DDI</strong></h4></td><td>Centralize DNS, DHCP, and IPAM across on-prem, branch, and public cloud services.</td><td><a href="https://app.gitbook.com/s/XSPACE_DDI/">Universal DDI</a></td></tr>
+<tr><td><h4><i class="fa-shield-halved" style="color:$primary;"></i></h4></td><td><h4><strong>Threat Defense</strong></h4></td><td>Use DNS as a first line of defense with policy, threat intelligence, and research tools.</td><td><a href="https://app.gitbook.com/s/XSPACE_THREAT/">Threat Defense</a></td></tr>
+<tr><td><h4><i class="fa-radar" style="color:$primary;"></i></h4></td><td><h4><strong>Asset Insights</strong></h4></td><td>Discover, monitor, and analyze assets across cloud, on-prem, IoT, OT, and third-party sources.</td><td><a href="https://app.gitbook.com/s/XSPACE_ASSETS/">Asset Insights</a></td></tr>
+<tr><td><h4><i class="fa-clock-rotate-left" style="color:$primary;"></i></h4></td><td><h4><strong>Changelog</strong></h4></td><td>Track realistic product documentation updates in a filterable release feed.</td><td><a href="https://app.gitbook.com/s/XSPACE_CHANGELOG/">Changelog</a></td></tr>
 </tbody></table>
 
 ## Recommended reader path

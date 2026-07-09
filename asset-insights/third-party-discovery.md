@@ -14,4 +14,4 @@ Third-party discovery brings external context into the same inventory model.
 | Cloudflare | DNS, edge, and security-adjacent resources. |
 | Other integrations | Specialized systems that hold asset or ownership metadata. |
 
-See related security workflows in [Threat Defense](https://app.gitbook.com/s/bjmjWyZeEElnO6lY8R4x/).
+See related security workflows in [Threat Defense](https://app.gitbook.com/s/XSPACE_THREAT/).

@@ -1288,7 +1288,6 @@ def customization_payload(created: dict, share_url: str):
         "socialPreview": {"url": cover},
         "socialAccounts": [
             {"platform": "linkedin", "handle": "company/infoblox", "display": {"footer": True, "header": False}},
-            {"platform": "x", "handle": "infoblox", "display": {"footer": True, "header": False}},
         ],
         "insights": {"trackingCookie": True},
     }

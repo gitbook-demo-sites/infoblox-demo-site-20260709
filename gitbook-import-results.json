@@ -1,0 +1,27 @@
+{
+  "HOME": {
+    "status": 204,
+    "space": "qLkDPmYiAWSBIE3ueYOh",
+    "folder": "home"
+  },
+  "DDI": {
+    "status": 204,
+    "space": "OLXbioOXuuV7oAjtGypM",
+    "folder": "universal-ddi"
+  },
+  "THREAT": {
+    "status": 204,
+    "space": "bjmjWyZeEElnO6lY8R4x",
+    "folder": "threat-defense"
+  },
+  "ASSETS": {
+    "status": 204,
+    "space": "T7hfPll24m84ff2UcPva",
+    "folder": "asset-insights"
+  },
+  "CHANGELOG": {
+    "status": 204,
+    "space": "Jbf6lssWdfZLknskireu",
+    "folder": "changelog"
+  }
+}
