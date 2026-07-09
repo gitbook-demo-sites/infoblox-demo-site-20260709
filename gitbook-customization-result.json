@@ -1,0 +1,255 @@
+{
+  "updatedAt": "2026-07-09T14:10:17.000Z",
+  "title": "Infoblox Documentation Hub",
+  "localizedTitle": {},
+  "internationalization": {
+    "locale": "en"
+  },
+  "styling": {
+    "theme": "clean",
+    "primaryColor": {
+      "dark": "#FF9A57",
+      "light": "#F36B21"
+    },
+    "infoColor": {
+      "dark": "#60C7D1",
+      "light": "#007A87"
+    },
+    "successColor": {
+      "dark": "#63D29C",
+      "light": "#248A5B"
+    },
+    "warningColor": {
+      "dark": "#F6C760",
+      "light": "#B7791F"
+    },
+    "dangerColor": {
+      "dark": "#F97066",
+      "light": "#B42318"
+    },
+    "tint": {
+      "color": {
+        "dark": "#101820",
+        "light": "#F5F7FA"
+      }
+    },
+    "corners": "rounded",
+    "depth": "flat",
+    "links": "accent",
+    "font": "Inter",
+    "monospaceFont": "IBMPlexMono",
+    "icons": "regular",
+    "background": "plain",
+    "sidebar": {
+      "background": "filled",
+      "list": "line"
+    },
+    "codeTheme": {
+      "default": {
+        "light": "default-light",
+        "dark": "default-dark"
+      },
+      "openapi": {
+        "light": "default-light",
+        "dark": "default-dark"
+      }
+    },
+    "search": "prominent"
+  },
+  "favicon": {
+    "icon": {
+      "light": "https://www.infoblox.com/wp-content/uploads/cropped-infoblox-favicon-32x32.png",
+      "dark": "https://www.infoblox.com/wp-content/uploads/cropped-infoblox-favicon-32x32.png"
+    }
+  },
+  "header": {
+    "preset": "default",
+    "logo": {
+      "light": "https://raw.githubusercontent.com/gitbook-demo-sites/infoblox-demo-site-20260709/main/assets/infoblox-wordmark.svg",
+      "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/infoblox-demo-site-20260709/main/assets/infoblox-wordmark.svg"
+    },
+    "links": [
+      {
+        "to": {
+          "url": "https://www.infoblox.com/products/",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Products",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "url": "https://docs.infoblox.com/",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "link",
+        "title": "Docs portal",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "url": "https://support.infoblox.com/",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "button-secondary",
+        "title": "Support",
+        "localizedTitle": {}
+      },
+      {
+        "to": {
+          "url": "https://www.infoblox.com/contact/",
+          "kind": "url"
+        },
+        "links": [],
+        "style": "button-primary",
+        "title": "Book a demo",
+        "localizedTitle": {}
+      }
+    ]
+  },
+  "footer": {
+    "logo": {
+      "light": "https://raw.githubusercontent.com/gitbook-demo-sites/infoblox-demo-site-20260709/main/assets/infoblox-wordmark.svg",
+      "dark": "https://raw.githubusercontent.com/gitbook-demo-sites/infoblox-demo-site-20260709/main/assets/infoblox-wordmark.svg"
+    },
+    "groups": [
+      {
+        "links": [
+          {
+            "to": {
+              "kind": "space",
+              "space": "qLkDPmYiAWSBIE3ueYOh"
+            },
+            "title": "Home",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "OLXbioOXuuV7oAjtGypM"
+            },
+            "title": "Universal DDI",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "bjmjWyZeEElnO6lY8R4x"
+            },
+            "title": "Threat Defense",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "T7hfPll24m84ff2UcPva"
+            },
+            "title": "Asset Insights",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "kind": "space",
+              "space": "Jbf6lssWdfZLknskireu"
+            },
+            "title": "Changelog",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Demo spaces",
+        "localizedTitle": {}
+      },
+      {
+        "links": [
+          {
+            "to": {
+              "url": "https://www.infoblox.com/",
+              "kind": "url"
+            },
+            "title": "Infoblox website",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "url": "https://docs.infoblox.com/",
+              "kind": "url"
+            },
+            "title": "Infoblox docs",
+            "localizedTitle": {}
+          },
+          {
+            "to": {
+              "url": "https://github.com/gitbook-demo-sites/infoblox-demo-site-20260709",
+              "kind": "url"
+            },
+            "title": "Source repo",
+            "localizedTitle": {}
+          }
+        ],
+        "title": "Sources",
+        "localizedTitle": {}
+      }
+    ],
+    "copyright": "Infoblox Documentation Hub demo - sample content only."
+  },
+  "themes": {
+    "default": "light",
+    "toggeable": true
+  },
+  "trademark": {
+    "enabled": true
+  },
+  "feedback": {
+    "enabled": true
+  },
+  "ai": {
+    "mode": "assistant",
+    "suggestions": [
+      "How do Universal DDI and Asset Insights work together?",
+      "What is the setup path for Threat Defense?",
+      "Show recent Universal DDI documentation updates",
+      "Which discovery sources are covered in Asset Insights?"
+    ]
+  },
+  "advancedCustomization": {
+    "enabled": true
+  },
+  "pageActions": {
+    "items": [
+      "assistant",
+      "markdown",
+      "external-ai",
+      "mcp",
+      "pdf"
+    ]
+  },
+  "pagination": {
+    "enabled": true
+  },
+  "privacyPolicy": {
+    "url": "https://www.infoblox.com/company/legal/privacy-policy/"
+  },
+  "socialPreview": {
+    "url": "https://raw.githubusercontent.com/gitbook-demo-sites/infoblox-demo-site-20260709/main/assets/infoblox-cover.svg"
+  },
+  "socialAccounts": [
+    {
+      "handle": "company/infoblox",
+      "display": {
+        "footer": true,
+        "header": false
+      },
+      "platform": "linkedin"
+    }
+  ],
+  "externalLinks": {
+    "target": "self"
+  },
+  "insights": {
+    "trackingCookie": true
+  }
+}

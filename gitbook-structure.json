@@ -1,0 +1,325 @@
+{
+  "type": "sections",
+  "structure": [
+    {
+      "object": "site-section",
+      "id": "sitesc_vcfgH",
+      "icon": "house",
+      "title": "Home",
+      "description": "A polished entry point for the three-product Infoblox demo.",
+      "path": "home",
+      "default": true,
+      "draft": false,
+      "siteSpaces": [
+        {
+          "object": "site-space",
+          "id": "sitesp_lL7XY",
+          "path": "home",
+          "default": true,
+          "section": "sitesc_vcfgH",
+          "space": {
+            "object": "space",
+            "id": "qLkDPmYiAWSBIE3ueYOh",
+            "title": "Home",
+            "emoji": "1f3e0",
+            "visibility": "share-link",
+            "createdAt": "2026-07-09T14:09:31.316Z",
+            "updatedAt": "2026-07-09T14:09:57.548Z",
+            "editMode": "locked",
+            "internal_poweredByV2": true,
+            "internal_singleWebsocket": true,
+            "urls": {
+              "location": "/spaces/qLkDPmYiAWSBIE3ueYOh",
+              "app": "https://app.gitbook.com/o/lDYvDdPBo2V7fu4zoiJ8/s/qLkDPmYiAWSBIE3ueYOh/"
+            },
+            "organization": "lDYvDdPBo2V7fu4zoiJ8",
+            "gitSync": {},
+            "revision": "j4TqG79l7qMoCVxMRUfk",
+            "defaultLevel": "inherit",
+            "comments": 0,
+            "changeRequests": 0,
+            "changeRequestsDraft": 0,
+            "changeRequestsOpen": 0,
+            "permissions": {
+              "view": true,
+              "access": true,
+              "admin": true,
+              "viewInviteLinks": true,
+              "edit": true,
+              "triggerGitSync": true,
+              "comment": true,
+              "merge": true,
+              "review": true,
+              "installIntegration": true
+            },
+            "mergeRules": {
+              "type": "inherit"
+            }
+          },
+          "title": "Home",
+          "draft": false,
+          "hasAdvancedCustomizationFeature": false,
+          "urls": {},
+          "hidden": false
+        }
+      ],
+      "urls": {}
+    },
+    {
+      "object": "site-section",
+      "id": "sitesc_oCyEB",
+      "icon": "network-wired",
+      "title": "Universal DDI",
+      "description": "Cloud-managed DNS, DHCP, and IPAM across hybrid and multi-cloud estates.",
+      "path": "universal-ddi",
+      "default": false,
+      "draft": false,
+      "siteSpaces": [
+        {
+          "object": "site-space",
+          "id": "sitesp_mxrC3",
+          "path": "universal-ddi",
+          "default": true,
+          "section": "sitesc_oCyEB",
+          "space": {
+            "object": "space",
+            "id": "OLXbioOXuuV7oAjtGypM",
+            "title": "Universal DDI",
+            "emoji": "1f310",
+            "visibility": "share-link",
+            "createdAt": "2026-07-09T14:09:34.025Z",
+            "updatedAt": "2026-07-09T14:09:58.322Z",
+            "editMode": "locked",
+            "internal_poweredByV2": true,
+            "internal_singleWebsocket": true,
+            "urls": {
+              "location": "/spaces/OLXbioOXuuV7oAjtGypM",
+              "app": "https://app.gitbook.com/o/lDYvDdPBo2V7fu4zoiJ8/s/OLXbioOXuuV7oAjtGypM/"
+            },
+            "organization": "lDYvDdPBo2V7fu4zoiJ8",
+            "gitSync": {},
+            "revision": "14msBlD6qQHECYNeRjvx",
+            "defaultLevel": "inherit",
+            "comments": 0,
+            "changeRequests": 0,
+            "changeRequestsDraft": 0,
+            "changeRequestsOpen": 0,
+            "permissions": {
+              "view": true,
+              "access": true,
+              "admin": true,
+              "viewInviteLinks": true,
+              "edit": true,
+              "triggerGitSync": true,
+              "comment": true,
+              "merge": true,
+              "review": true,
+              "installIntegration": true
+            },
+            "mergeRules": {
+              "type": "inherit"
+            }
+          },
+          "title": "Universal DDI",
+          "draft": false,
+          "hasAdvancedCustomizationFeature": false,
+          "urls": {},
+          "hidden": false
+        }
+      ],
+      "urls": {}
+    },
+    {
+      "object": "site-section",
+      "id": "sitesc_KuGie",
+      "icon": "shield-halved",
+      "title": "Threat Defense",
+      "description": "DNS-layer security, threat intelligence, policy, reporting, and research tools.",
+      "path": "threat-defense",
+      "default": false,
+      "draft": false,
+      "siteSpaces": [
+        {
+          "object": "site-space",
+          "id": "sitesp_wCHTa",
+          "path": "threat-defense",
+          "default": true,
+          "section": "sitesc_KuGie",
+          "space": {
+            "object": "space",
+            "id": "bjmjWyZeEElnO6lY8R4x",
+            "title": "Threat Defense",
+            "emoji": "1f6e1",
+            "visibility": "share-link",
+            "createdAt": "2026-07-09T14:09:37.303Z",
+            "updatedAt": "2026-07-09T14:09:58.965Z",
+            "editMode": "locked",
+            "internal_poweredByV2": true,
+            "internal_singleWebsocket": true,
+            "urls": {
+              "location": "/spaces/bjmjWyZeEElnO6lY8R4x",
+              "app": "https://app.gitbook.com/o/lDYvDdPBo2V7fu4zoiJ8/s/bjmjWyZeEElnO6lY8R4x/"
+            },
+            "organization": "lDYvDdPBo2V7fu4zoiJ8",
+            "gitSync": {},
+            "revision": "A7I7GNUdJnlUTBU9ppqU",
+            "defaultLevel": "inherit",
+            "comments": 0,
+            "changeRequests": 0,
+            "changeRequestsDraft": 0,
+            "changeRequestsOpen": 0,
+            "permissions": {
+              "view": true,
+              "access": true,
+              "admin": true,
+              "viewInviteLinks": true,
+              "edit": true,
+              "triggerGitSync": true,
+              "comment": true,
+              "merge": true,
+              "review": true,
+              "installIntegration": true
+            },
+            "mergeRules": {
+              "type": "inherit"
+            }
+          },
+          "title": "Threat Defense",
+          "draft": false,
+          "hasAdvancedCustomizationFeature": false,
+          "urls": {},
+          "hidden": false
+        }
+      ],
+      "urls": {}
+    },
+    {
+      "object": "site-section",
+      "id": "sitesc_0yIvI",
+      "icon": "radar",
+      "title": "Asset Insights",
+      "description": "Cross-domain asset discovery, analysis, and inventory across clouds and networks.",
+      "path": "asset-insights",
+      "default": false,
+      "draft": false,
+      "siteSpaces": [
+        {
+          "object": "site-space",
+          "id": "sitesp_iGLjO",
+          "path": "asset-insights",
+          "default": true,
+          "section": "sitesc_0yIvI",
+          "space": {
+            "object": "space",
+            "id": "T7hfPll24m84ff2UcPva",
+            "title": "Asset Insights",
+            "emoji": "1f50e",
+            "visibility": "share-link",
+            "createdAt": "2026-07-09T14:09:40.663Z",
+            "updatedAt": "2026-07-09T14:09:59.172Z",
+            "editMode": "locked",
+            "internal_poweredByV2": true,
+            "internal_singleWebsocket": true,
+            "urls": {
+              "location": "/spaces/T7hfPll24m84ff2UcPva",
+              "app": "https://app.gitbook.com/o/lDYvDdPBo2V7fu4zoiJ8/s/T7hfPll24m84ff2UcPva/"
+            },
+            "organization": "lDYvDdPBo2V7fu4zoiJ8",
+            "gitSync": {},
+            "revision": "rWtzYrTw8qDxuy5NM7a3",
+            "defaultLevel": "inherit",
+            "comments": 0,
+            "changeRequests": 0,
+            "changeRequestsDraft": 0,
+            "changeRequestsOpen": 0,
+            "permissions": {
+              "view": true,
+              "access": true,
+              "admin": true,
+              "viewInviteLinks": true,
+              "edit": true,
+              "triggerGitSync": true,
+              "comment": true,
+              "merge": true,
+              "review": true,
+              "installIntegration": true
+            },
+            "mergeRules": {
+              "type": "inherit"
+            }
+          },
+          "title": "Asset Insights",
+          "draft": false,
+          "hasAdvancedCustomizationFeature": false,
+          "urls": {},
+          "hidden": false
+        }
+      ],
+      "urls": {}
+    },
+    {
+      "object": "site-section",
+      "id": "sitesc_xgOeX",
+      "icon": "clock-rotate-left",
+      "title": "Changelog",
+      "description": "Realistic release notes based on the source documentation update history.",
+      "path": "changelog",
+      "default": false,
+      "draft": false,
+      "siteSpaces": [
+        {
+          "object": "site-space",
+          "id": "sitesp_3ejKX",
+          "path": "changelog",
+          "default": true,
+          "section": "sitesc_xgOeX",
+          "space": {
+            "object": "space",
+            "id": "Jbf6lssWdfZLknskireu",
+            "title": "Changelog",
+            "emoji": "1f4e3",
+            "visibility": "share-link",
+            "createdAt": "2026-07-09T14:09:43.586Z",
+            "updatedAt": "2026-07-09T14:09:59.639Z",
+            "editMode": "locked",
+            "internal_poweredByV2": true,
+            "internal_singleWebsocket": true,
+            "urls": {
+              "location": "/spaces/Jbf6lssWdfZLknskireu",
+              "app": "https://app.gitbook.com/o/lDYvDdPBo2V7fu4zoiJ8/s/Jbf6lssWdfZLknskireu/"
+            },
+            "organization": "lDYvDdPBo2V7fu4zoiJ8",
+            "gitSync": {},
+            "revision": "B2sBJh6zRvBo6zxvqrsq",
+            "defaultLevel": "inherit",
+            "comments": 0,
+            "changeRequests": 0,
+            "changeRequestsDraft": 0,
+            "changeRequestsOpen": 0,
+            "permissions": {
+              "view": true,
+              "access": true,
+              "admin": true,
+              "viewInviteLinks": true,
+              "edit": true,
+              "triggerGitSync": true,
+              "comment": true,
+              "merge": true,
+              "review": true,
+              "installIntegration": true
+            },
+            "mergeRules": {
+              "type": "inherit"
+            }
+          },
+          "title": "Changelog",
+          "draft": false,
+          "hasAdvancedCustomizationFeature": false,
+          "urls": {},
+          "hidden": false
+        }
+      ],
+      "urls": {}
+    }
+  ]
+}

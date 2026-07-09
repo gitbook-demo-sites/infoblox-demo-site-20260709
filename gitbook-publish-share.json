@@ -1,0 +1,91 @@
+{
+  "publish_status": 200,
+  "publish": {
+    "object": "site",
+    "id": "site_RPRF4",
+    "type": "ultimate",
+    "appliedType": "ultimate",
+    "title": "Infoblox Documentation Hub",
+    "icon": {
+      "icon": {
+        "dark": "https://www.infoblox.com/wp-content/uploads/cropped-infoblox-favicon-32x32.png",
+        "light": "https://www.infoblox.com/wp-content/uploads/cropped-infoblox-favicon-32x32.png"
+      }
+    },
+    "basename": "infoblox-documentation-hub",
+    "visibility": "share-link",
+    "permissionsModel": "site",
+    "defaultLevel": null,
+    "permissions": {
+      "view": true,
+      "access": true,
+      "admin": true,
+      "installIntegration": true,
+      "viewAdaptiveSchema": true,
+      "editAdaptiveSchema": true
+    },
+    "published": true,
+    "createdAt": "2026-07-09T14:09:29.000Z",
+    "siteSpaces": 5,
+    "features": [
+      {
+        "id": "sites-share-links",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-ai-assistant",
+        "plan": "ultimate",
+        "frozen": false
+      },
+      {
+        "id": "sites-pdf-export",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-page-feedback",
+        "plan": "premium",
+        "frozen": false
+      },
+      {
+        "id": "sites-advanced-customization",
+        "plan": "premium",
+        "frozen": false,
+        "customizations": [
+          "header-logo",
+          "footer-logo",
+          "footer-links",
+          "footer-copyright",
+          "semantic-colors"
+        ]
+      },
+      {
+        "id": "sites-sections",
+        "plan": "ultimate",
+        "frozen": false
+      }
+    ],
+    "urls": {
+      "location": "/orgs/lDYvDdPBo2V7fu4zoiJ8/sites/site_RPRF4",
+      "app": "https://app.gitbook.com/o/lDYvDdPBo2V7fu4zoiJ8/sites/site_RPRF4",
+      "preview": "https://sites.gitbook.com/preview/site_RPRF4/"
+    }
+  },
+  "first_publish_status": 200,
+  "share_status": 201,
+  "share": {
+    "object": "share-link",
+    "id": "vTrx8cSznlV9Wiyy2hia",
+    "createdAt": "2026-07-09T14:10:17.000Z",
+    "name": "Infoblox demo review",
+    "active": true,
+    "urls": {
+      "published": "https://infoblox.gitbook.io/infoblox-documentation-hub/vTrx8cSznlV9Wiyy2hia/"
+    }
+  },
+  "published_url": "https://infoblox.gitbook.io/infoblox-documentation-hub/vTrx8cSznlV9Wiyy2hia/",
+  "app_url": "https://app.gitbook.com/o/lDYvDdPBo2V7fu4zoiJ8/sites/site_RPRF4",
+  "preview_url": "https://sites.gitbook.com/preview/site_RPRF4/",
+  "repo": "https://github.com/gitbook-demo-sites/infoblox-demo-site-20260709"
+}
