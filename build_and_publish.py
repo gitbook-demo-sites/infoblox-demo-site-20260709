@@ -150,13 +150,10 @@ def scaffold_assets():
     write(
         "assets/infoblox-wordmark.svg",
         """
-        <svg xmlns="http://www.w3.org/2000/svg" width="640" height="132" viewBox="0 0 640 132" role="img" aria-label="Infoblox">
-          <rect width="640" height="132" fill="#FFFFFF"/>
-          <g transform="translate(30 31)">
-            <rect width="56" height="56" rx="8" fill="#F36B21"/>
-            <rect x="14" y="14" width="28" height="28" rx="5" fill="#FFFFFF" opacity=".94"/>
-            <text x="82" y="41" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" fill="#152536">Infoblox</text>
-          </g>
+        <svg xmlns="http://www.w3.org/2000/svg" width="376" height="64" viewBox="0 0 376 64" role="img" aria-label="Infoblox">
+          <rect x="0" y="4" width="56" height="56" rx="8" fill="#F36B21"/>
+          <rect x="14" y="18" width="28" height="28" rx="5" fill="#FFFFFF" opacity=".94"/>
+          <text x="74" y="45" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" fill="#152536">Infoblox</text>
         </svg>
         """,
     )
